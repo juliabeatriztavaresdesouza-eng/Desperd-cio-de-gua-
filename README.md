@@ -13,6 +13,6 @@ no projeto, está sendo mostrando soluçoes dos problemas  que estão sendo enfr
 * O mapa da nossa ideia (projeto canvas).
 * o roteiro da apresentação.
 * os problemas e soluções.
-* e ideais.
+* e idéias.
 
 ## aqui está o link do nosso projeto !!!

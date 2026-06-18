@@ -1,5 +1,5 @@
 # Desperdício de água
-o combate ao desperdício de agua https://github.com/juliabeatriztavaresdesouza-eng/Desperd-cio-de-gua-/edit/main/README.md
+o combate ao desperdício de água https://github.com/juliabeatriztavaresdesouza-eng/Desperd-cio-de-gua-/edit/main/README.md
 
 ## oque seria o projeto?
 

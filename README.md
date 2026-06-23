@@ -1,5 +1,5 @@
-# Desperdício de água
-o combate ao desperdício de água https://github.com/juliabeatriztavaresdesouza-eng/Desperd-cio-de-gua-/edit/main/README.md
+# Desperdício de água 
+o combate ao desperdício de água é fundamental no ensino e no convívio escolar.
 
 ## oque seria o projeto?
 

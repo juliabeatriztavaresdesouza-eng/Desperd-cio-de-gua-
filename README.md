@@ -3,7 +3,8 @@ A água é um recurso essencial para a vida. Ela é usada para beber, cozinhar, 
 
 ## oque seria o projeto?
 
-o projeto está ligado a atentar as pessoas que não entendem a importância da economia de água, é de fato muito importante saber oque se deve fazer a respeito, e é isso que estamos a apresentar a seguir. isso pode ajudar futuramente ou o próprio presente.
+Este projeto tem como objetivo conscientizar as pessoas que ainda não compreendem a importância da economia de água. Saber como utilizar esse recurso de forma responsável é fundamental para a preservação do meio ambiente e para garantir sua disponibilidade no futuro. Por isso, apresentaremos a seguir informações e ações que podem ajudar tanto no presente quanto nas próximas gerações.
+
 
 ## oque está sendo mostrado?
 

@@ -1,10 +1,9 @@
-# Desperdício de água 
-A água é um recurso essencial para a vida. Ela é usada para beber, cozinhar, tomar banho, produzir alimentos, gerar energia e em muitas atividades do dia a dia. Apesar de grande parte da superfície da Terra ser coberta por água, apenas uma pequena quantidade é própria para o consumo humano. Por isso, o desperdício de água é um problema que merece atenção.
+# Desperdício de água
+o combate ao desperdício de água https://github.com/juliabeatriztavaresdesouza-eng/Desperd-cio-de-gua-/edit/main/README.md
 
 ## oque seria o projeto?
 
-Este projeto tem como objetivo conscientizar as pessoas que ainda não compreendem a importância da economia de água. Saber como utilizar esse recurso de forma responsável é fundamental para a preservação do meio ambiente e para garantir sua disponibilidade no futuro. Por isso, apresentaremos a seguir informações e ações que podem ajudar tanto no presente quanto nas próximas gerações.
-
+o projeto está ligado a atentar as pessoas que não entendem a importância da economia de água, é de fato muito importante saber oque se deve fazer a respeito, e é isso que estamos a apresentar a seguir. isso pode ajudar futuramente ou o próprio presente.
 
 ## oque está sendo mostrado?
 
@@ -23,6 +22,4 @@ no link abaixo, deixamos o nosso trabalho, e como esta, espero que aproveite !!!
  link completo https://codepen.io/Camilyzinh_-Vitoria/pen/zxNoaeP
  
  link completo https://canva.link/jy2iw8m7dorm461
-
- link completo https://github.com/juliabeatriztavaresdesouza-eng/Desperd-cio-de-gua-
 

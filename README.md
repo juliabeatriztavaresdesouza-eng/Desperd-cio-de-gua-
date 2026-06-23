@@ -1,5 +1,5 @@
 # Desperdício de água 
-o combate ao desperdício de água é fundamental no ensino e no convívio escolar.
+A água é um recurso essencial para a vida. Ela é usada para beber, cozinhar, tomar banho, produzir alimentos, gerar energia e em muitas atividades do dia a dia. Apesar de grande parte da superfície da Terra ser coberta por água, apenas uma pequena quantidade é própria para o consumo humano. Por isso, o desperdício de água é um problema que merece atenção.
 
 ## oque seria o projeto?
 
